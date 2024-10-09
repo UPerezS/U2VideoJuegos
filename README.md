@@ -1,4 +1,4 @@
-# Creación de Video Juego
+# Creación de Video Juegos
 <p align="center">
     <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
   
@@ -21,35 +21,25 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto: 
 - Objetivo
 - Plataforma, Género, Clasificación, Personajes, Escenario
 - Historia
 - Personajes
 - Reglas de Juego
 - Pantallas de Juego
-- Plan de creación de VideoJuego
+- Plan de creación de VideoJuegos
 
 ## Código Fuente
 
 * Lección 1
   * > [Prototipo 1 - Cristian Uriel Camacho Perez](./Prototipo1_CristianUrielCamachoPerez.unitypackage)
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Documentación](https://drive.google.com/drive/u/2/folders/1Io4Dfayk6eIPKTcgz3NgaLImQGLOjKr0)
 * Lección 2
   * > [Prototipo 2 - Cristian Uriel Camacho Perez](./Prototipo2_CristianUrielCamachoPerez.unitypackage)
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Documentación](https://drive.google.com/drive/u/2/folders/111fSQaocRTG6zRJllIsqOs2jGYJKT0hQ)
 * Lección 3
   * > [Tutorial 2D P1 - Cristian Uriel Camacho Perez](./Tutorial2D-P1_CristianUrielCamachoPérez.unitypackage)
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
 * Lección 4
   * > Tutorial
   * > Laboratorio
