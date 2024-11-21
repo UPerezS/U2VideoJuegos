@@ -40,22 +40,22 @@
   * > [Documentación](https://drive.google.com/drive/u/2/folders/111fSQaocRTG6zRJllIsqOs2jGYJKT0hQ)
 * Animación 2D P1
   * > [Tutorial 2D P1 - Cristian Uriel Camacho Perez](./Tutorial2D-P1_CristianUrielCamachoPérez.unitypackage)
-  * > [Documentación]()
+  * > [Documentación](https://drive.google.com/drive/u/2/folders/1Io4Dfayk6eIPKTcgz3NgaLImQGLOjKr0)
 * Animación 2D P2
   * > [Tutorial 2D P2 - Cristian Uriel Camacho Perez](./Tutorial2D-P2_CristianUrielCamachoPérez.unitypackage)
-  * > [Documentación]()
+  * > [Documentación](https://github.com/UPerezS/U2VideoJuegos/blob/main/Documentaci%C3%B3n/Player%20Animations%202D%20Tutorial%2002.docx)
 * Animación 2D P3
   * > [Tutorial 2D P3 - Cristian Uriel Camacho Perez](./Tutorial2D-P3_CristianUrielCamachoPérez.unitypackage)
-  * > [Documentación]()
+  * > [Documentación](https://github.com/UPerezS/U2VideoJuegos/blob/main/Documentaci%C3%B3n/Player%20Animations%202D%20Tutorial%2003.docx)
 * Animación 2D P4
   * > [Tutorial 2D P4 - Cristian Uriel Camacho Perez](./Tutorial2D-P4_CristianUrielCamachoPérez.unitypackage)
-  * > [Documentación]()
+  * > [Documentación](https://github.com/UPerezS/U2VideoJuegos/blob/main/Documentaci%C3%B3n/Player%20Animations%202D%20Tutorial%2004.docx)
 * Animación 2D P5
   * > [Tutorial 2D P5 - Cristian Uriel Camacho Perez](./Tutorial2D-P5_CristianUrielCamachoPérez.unitypackage)
-  * > [Documentación]()
+  * > [Documentación](https://github.com/UPerezS/U2VideoJuegos/blob/main/Documentaci%C3%B3n/Player%20Animations%202D%20Tutorial%2005.docx)
 * Animación 2D P6
   * > [Tutorial 2D P6 - Cristian Uriel Camacho Perez](./Tutorial2D-P6_CristianUrielCamachoPérez.unitypackage)
-  * > [Documentación]()
+  * > [Documentación](https://github.com/UPerezS/U2VideoJuegos/blob/main/Documentaci%C3%B3n/Player%20Animations%202D%20Tutorial%2006.docx)
 * VideoJuego
   * > [Repositorio GIT](https://github.com/UPerezS/VG-GuardianForest.git)
 
