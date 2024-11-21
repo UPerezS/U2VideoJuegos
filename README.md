@@ -47,9 +47,9 @@
 * Lección 5
   * > [Tutorial 2D P4 - Cristian Uriel Camacho Perez](./Tutorial2D-P4_CristianUrielCamachoPérez.unitypackage)
 * Lección 5
-  * > [Tutorial 2D P5 - Cristian Uriel Camacho Perez]()
+  * > [Tutorial 2D P5 - Cristian Uriel Camacho Perez](./Tutorial2D-P5_CristianUrielCamachoPérez.unitypackage)
 * Lección 5
-  * > [Tutorial 2D P6 - Cristian Uriel Camacho Perez]()
+  * > [Tutorial 2D P6 - Cristian Uriel Camacho Perez](./Tutorial2D-P6_CristianUrielCamachoPérez.unitypackage)
 * VideoJuego
   * > [Repositorio GIT](https://github.com/UPerezS/VG-GuardianForest.git)
 
